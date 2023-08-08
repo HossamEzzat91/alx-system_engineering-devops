@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f -print | tail
+find . -type f -print | head
